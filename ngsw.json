@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1632768151982,
+  "timestamp": 1632793456854,
   "index": "/ron/index.html",
   "assetGroups": [
     {
@@ -44,14 +44,14 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "/ron/assets/icons/icon-128x128.png": "ab27cde6beb7b68a7661dc412d9648d6c60cc9d8",
-    "/ron/assets/icons/icon-144x144.png": "f9d68c0a50b8e63e870c0b2a5eccb0b75f7297b5",
-    "/ron/assets/icons/icon-152x152.png": "4b7af1b215ff9ed8284051484565475493633483",
-    "/ron/assets/icons/icon-192x192.png": "5d1dbeffe1731ea42700c0afb4fb806a5dca67c0",
-    "/ron/assets/icons/icon-384x384.png": "5704983c23ef89c262531e4238a953b6b1c45f14",
-    "/ron/assets/icons/icon-512x512.png": "24187f63b5d8b31c1695e8fb84794f346895efe2",
-    "/ron/assets/icons/icon-72x72.png": "44ab56c0c14091c98367fb52e0b7b0ce049e193e",
-    "/ron/assets/icons/icon-96x96.png": "ea384cce181e50cc4b5b7b97917982d483353a87",
+    "/ron/assets/icons/icon-128x128.png": "769677cfcdf8745edc68abfc2c9aafac95a1f697",
+    "/ron/assets/icons/icon-144x144.png": "457ecbb4196f32f9b5f9684dc82751a7ba4a383d",
+    "/ron/assets/icons/icon-152x152.png": "835f0364fac49452597b14d545eaf42a6a887a5d",
+    "/ron/assets/icons/icon-192x192.png": "05430d5d7e0daa8880c8920c8741225bb52736cb",
+    "/ron/assets/icons/icon-384x384.png": "2ccccecda66b6ab41427edc9576fb3a66384451d",
+    "/ron/assets/icons/icon-512x512.png": "a3c3e4930315d64f3932944f0a2ab5ce289a6844",
+    "/ron/assets/icons/icon-72x72.png": "81dc040511185dceb73c85808f3f1ed794a03feb",
+    "/ron/assets/icons/icon-96x96.png": "2a015f44971eee43182a1c919947fec570283fdf",
     "/ron/assets/images/icon.png": "71af15560b9d5a294c6af379cd11cacf21c82384",
     "/ron/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
     "/ron/index.html": "0935f68a87d3494e09e2220c936940c27e970331",
