@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1632920153839,
+  "timestamp": 1632922211496,
   "index": "/ron/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/ron/favicon.ico",
         "/ron/index.html",
-        "/ron/main.682e383f1c2da5014609.js",
+        "/ron/main.92a67d556a803b882027.js",
         "/ron/manifest.webmanifest",
         "/ron/polyfills.1e1cf3ee927e460b24f1.js",
         "/ron/runtime.9a211189dabbfbda289d.js",
@@ -54,8 +54,8 @@
     "/ron/assets/icons/icon-96x96.png": "2ad167090a37744ce11b243de379c082676ccafa",
     "/ron/assets/images/icon.png": "e3ecfedcbedd6c22fbf5338aece9760f54cdfd33",
     "/ron/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/ron/index.html": "e83014f80d79e08a1875c6ee486436ac0514be3b",
-    "/ron/main.682e383f1c2da5014609.js": "7ff911f147d462194cacf6a6d6b0888332da9d37",
+    "/ron/index.html": "f4faec0cab0262c3d130b9e31e3e61d8b6675ddd",
+    "/ron/main.92a67d556a803b882027.js": "8a24a8b3b5621f48054a134f675aefddce1b2a80",
     "/ron/manifest.webmanifest": "ee884c383b27b5f81cf1eec5ce4910c51a42d72f",
     "/ron/polyfills.1e1cf3ee927e460b24f1.js": "691d92e5ead4dbc230c0b9e9a325f0827cf11a54",
     "/ron/runtime.9a211189dabbfbda289d.js": "67a819be7577053c44f06d2cdcbc2e3025d4f8b7",
