@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1632889990304,
+  "timestamp": 1632913922250,
   "index": "/ron/index.html",
   "assetGroups": [
     {
@@ -54,7 +54,7 @@
     "/ron/assets/icons/icon-96x96.png": "2ad167090a37744ce11b243de379c082676ccafa",
     "/ron/assets/images/icon.png": "e3ecfedcbedd6c22fbf5338aece9760f54cdfd33",
     "/ron/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/ron/index.html": "ae8ff6c3febc5a3277af8d5cb8906160dff7243b",
+    "/ron/index.html": "8d14fc684abe959f5785ac572c3b4fe2a8b830de",
     "/ron/main.874af1ecc7ef1f82b93b.js": "6fcf20bbb0f770d9933f5cc858597a33ce8b8a25",
     "/ron/manifest.webmanifest": "ee884c383b27b5f81cf1eec5ce4910c51a42d72f",
     "/ron/polyfills.1e1cf3ee927e460b24f1.js": "691d92e5ead4dbc230c0b9e9a325f0827cf11a54",
