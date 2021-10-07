@@ -1,149 +1,115 @@
 {
     "appcomponent":{
-       "app_link_home":"Home",
-       "app_link_about":"About",
-       "app_link_services":"Services",
-       "app_link_contact_us":"Contact Us"
+       "app_link_home":"घर",
+       "app_link_about":"के बारे में",
+       "app_link_services":"सेवाएं",
+       "app_link_contact_us":"संपर्क करें"
     },
     
     "header":{
-        "header_companyname":"RADICO",
-        "header_homelink":"Home",
-        "header_aboutlink":"About",
-        "header_serviceslink":"Services",
-        "header_contactlink":"Contact US"
+        "header_companyname":" रैडिको ",
+        "header_homelink":"घर",
+        "header_aboutlink":"के बारे में",
+        "header_serviceslink":"सेवाएं",
+        "header_contactlink":"संपर्क करें"
     },
 
     "footer":{
-        "footer_addressname":"RADICO",
-        "footer_place":"Thrissur",
-        "footer_state":"kerala",
-        "footer_country":"India",
-        "footer_phone":"Phone: +91 8113027091",
-        "footer_email":"Email: roypamechbc@gmail.com",
+        "footer_addressname":"रैडिको",
+        "footer_place":"त्रिशूर",
+        "footer_state":"केरल",
+        "footer_country":"भारत",
+        "footer_phone":"फ़ोन: +91 8113027091",
+        "footer_email":"ईमेल: roypamechbc@gmail.com",
 
-        "footer_servicename":"OUR SERVICES",
-        "footer_service1":"Web Development",
-        "footer_service2":"Social Media Marketing",
-        "footer_service3":"Content Writing",
-        "footer_service4":"Google Ads",
-        "footer_languagename":"LANGAUGES"
+        "footer_servicename":"हमारी सेवाएं",
+        "footer_service1":"वेब विकास",
+        "footer_service2":"सामाजिक माध्यम बाजारीकरण",
+        "footer_service3":"सामग्री लेखन",
+        "footer_service4":"गूगल विज्ञापन",
+        "footer_languagename":"भाषाओं"
     },
 
     "home":{
-        "home_intro1":"GET A PROFESSIONAL WEBSITE FOR YOUR BUSINESS",
-        "home_intro2":"We are team of talented designers making websites with MEAN stack",
-        "home_portfolio":"PORTFOLIO"
+        "home_intro1":"अपने व्यवसाय के लिए एक पेशेवर वेबसाइट प्राप्त करें",
+        "home_intro2":"हम MEAN स्टैक के साथ वेबसाइट बनाने वाले प्रतिभाशाली डिजाइनरों की टीम हैं",
+        "home_portfolio":"पोर्टफोलियो"
     },
     
     "aboutus":{
         
-        "title":"ABOUT US",
-        "description": ["Radico is a digital marketing and a website designing company with highly qualified",
-                       "professionals. Our team is highly skilled and experienced in understanding the general",
-                       "consumer behaviours and moderating the UX of the website according to the purchase",
-                       "behaviours. Your website will be carefully tailored with precisely following our",
-                       "proprietary 162 steps procedure which results in extremely high quality" ,
-                       "ERROR FREE WEBSITES which generates results. "],
+        "title":"हमारे बारे में",
+        "description": "रेडिको एक डिजिटल मार्केटिंग और एक वेबसाइट डिजाइनिंग कंपनी है जिसमें उच्च योग्य, पेशेवर हैं। हमारी टीम सामान्य, उपभोक्ता व्यवहार को समझने और खरीदारी, व्यवहार के अनुसार वेबसाइट के यूएक्स को मॉडरेट करने में अत्यधिक कुशल और अनुभवी है। आपकी वेबसाइट को सावधानीपूर्वक हमारी, स्वामित्व वाली 162 चरणों की प्रक्रिया का पालन करते हुए तैयार किया जाएगा, जिसके परिणामस्वरूप अत्यधिक उच्च गुणवत्ता, त्रुटि मुक्त वेबसाइटें होती हैं जो परिणाम उत्पन्न करती हैं।",
 
-        "teamtitle":"TEAM",
-        "teammember1title":"Chris White",
-        "teammember1position":"Chief Executive Officer",
-        "teammember1details": ["Chris has been designing and building websites since 1998, and doing", 
-                               "so professionally since 2006, when he graduated from Bradley University",
-                               "with a degree in Multimedia. As CEO, Chris focuses primarily on shaping", 
-                               "Chromatic’s strategy, vision, and team culture. He practices a lead-by-example", 
-                               "management style and believes strongly in transparency, both internally and", 
-                               "externally."],
+        "teamtitle":"टीम",
+        "teammember1title":"क्रिस व्हाइट",
+        "teammember1position":"मुख्य कार्यकारी अधिकारी",
+        "teammember1details": "क्रिस 1998 से वेबसाइट डिजाइन और निर्माण कर रहे हैं, और 2006 से पेशेवर रूप से ऐसा कर रहे हैं, जब उन्होंने ब्रैडली विश्वविद्यालय से मल्टीमीडिया में डिग्री के साथ स्नातक किया। सीईओ के रूप में, क्रिस मुख्य रूप से क्रोमैटिक की रणनीति, दृष्टि और टीम संस्कृति को आकार देने पर केंद्रित है। वह एक नेतृत्व-दर-उदाहरण, प्रबंधन शैली का अभ्यास करता है और आंतरिक और बाहरी दोनों तरह से पारदर्शिता में दृढ़ता से विश्वास करता है।",
 
-        "teammember2title":"Sarah Jhonson",
-        "teammember2position":"Product Manager",
-        "teammember2details":  ["Sarah is a creative problem solver and a natural leader.", 
-                               "As a lifelong learner and teacher, she is constantly trying new things and", 
-                               "acquiring new skills.She graduated from Bradley University",
-                               "with a bachelor’s degree in Multimedia and is currently pursuing a Master’s", 
-                               "degree in Leadership, Theology, and Society from Regent College."],
+        "teammember2title":"सारा जोंसन",
+        "teammember2position":"उत्पाद प्रबंधक",
+        "teammember2details": "सारा एक रचनात्मक समस्या हल करने वाली और एक प्राकृतिक नेता हैं। एक आजीवन सीखने वाली और शिक्षक के रूप में, वह लगातार नई चीजों की कोशिश कर रही हैं और नए कौशल हासिल कर रही हैं। उन्होंने ब्रैडली विश्वविद्यालय से मल्टीमीडिया में स्नातक की डिग्री के साथ स्नातक की उपाधि प्राप्त की है और वर्तमान में मास्टर की पढ़ाई कर रही है, रीजेंट कॉलेज से नेतृत्व, धर्मशास्त्र और समाज में डिग्री।",
 
 
-        "teammember3title":"Sergey Anderson",
-        "teammember3position":"Full stack developer",
-        "teammember3details": [ "Sergey joins Chromatic as a full-stack lead developer with experience in spades.",
-                                "With 10+ years experience with PHP and Drupal (backend & frontend), 4+ years of",
-                                "React / NextJS, his wonderful mix of skills and a can-do attitude mean there’s nothing", 
-                                "he can’t tackle." ],
+        "teammember3title":"सर्गेई एंडरसन",
+        "teammember3position":"पूरी स्टैक बनानेवाला",
+        "teammember3details": "सर्गेई क्रोमैटिक के साथ हुकुम में अनुभव के साथ एक पूर्ण-स्टैक लीड डेवलपर के रूप में शामिल हुए। पीएचपी और ड्रुपल (बैकएंड और फ्रंटएंड) के साथ 10+ वर्षों के अनुभव के साथ, रिएक्ट / नेक्स्टजेएस के 4+ वर्ष, उनके कौशल का अद्भुत मिश्रण और एक कैन-डू रवैया का मतलब है कि कुछ भी नहीं है, वह निपट नहीं सकता।",
 
 
-        "teammember4title":"Amanda Jepson",
-        "teammember4position":"Senior Developer",
-        "teammember4details": ["Amanda has been working on the web since he was a teenager and has", 
-                               "been building sites with Drupal and open-source web technologies", 
-                               "for non-profit, enterprise, and media companies for over 15 years."]
+        "teammember4title":"अमांडा जेपसन",
+        "teammember4position":"वरिष्ठ डेवलपर",
+        "teammember4details": "अमांडा किशोरावस्था से ही वेब पर काम कर रही है और 15 से अधिक वर्षों से गैर-लाभकारी, उद्यम और मीडिया कंपनियों के लिए ड्रूपल और ओपन-सोर्स वेब प्रौद्योगिकियों के साथ साइटों का निर्माण कर रही है।"
         
     },
 
     "services":{
-        "heading":"SERVICES",
-        "heading_description":"Our passion is your success",
+        "heading":"सेवा",
+        "heading_description":"हमारा जुनून आपकी सफलता है",
 
-        "label1":"Web development",
-        "label1_description": [ "Website development is the coding or programming that",
-                                "enables website functionality, per the owner’s requirements.",
-                                "The website development process includes web design,server-side",
-                                "scripting and network security configuration."],
+        "label1":"वेब विकास",
+        "label1_description": "वेबसाइट विकास कोडिंग या प्रोग्रामिंग है, जो मालिक की आवश्यकताओं के अनुसार वेबसाइट की कार्यक्षमता को सक्षम बनाता है। वेबसाइट विकास प्रक्रिया में वेब डिज़ाइन, सर्वर-साइड, स्क्रिप्टिंग और नेटवर्क सुरक्षा कॉन्फ़िगरेशन शामिल है।",
 
-        "label2":"Social media marketing",
-        "label2_description":[ "Social media marketing is a form of Internet marketing", 
-                               "that utilizes social networking websites as a marketing tool.", 
-                               "One of the key components of SMM is social media optimization.", 
-                               "Like search engine optimization, SMO is a strategy for drawing", 
-                               "new and unique visitors to a website."],
+        "label2":"सामाजिक माध्यम बाजारीकरण",
+        "label2_description": "सोशल मीडिया मार्केटिंग इंटरनेट मार्केटिंग का एक रूप है, जो सोशल नेटवर्किंग वेबसाइटों को मार्केटिंग टूल के रूप में उपयोग करता है। एसएमएम के प्रमुख घटकों में से एक सोशल मीडिया ऑप्टिमाइजेशन है। सर्च इंजन ऑप्टिमाइजेशन की तरह, एसएमओ ड्राइंग, नए और अद्वितीय आगंतुकों के लिए एक रणनीति है। एक वेबसाइट को।",
 
-        "label3":"Content Writing",
-        "label3_description":["ePeople trends digital marketing has creative content", 
-                              "writers and professional editors who make up a highly-skilled",
-                              "editorial team. Including keywords in title and description would", 
-                              "certainly help in ranking. We produce powerful content that delivers",
-                              "the right message to your target audience"],
+        "label3":"सामग्री लेखन",
+        "label3_description":"ई-पीपल ट्रेंड डिजिटल मार्केटिंग में रचनात्मक सामग्री, लेखक और पेशेवर संपादक होते हैं जो एक अत्यधिक कुशल, संपादकीय टीम बनाते हैं। शीर्षक और विवरण में कीवर्ड शामिल करने से निश्चित रूप से रैंकिंग में मदद मिलेगी। हम शक्तिशाली सामग्री का उत्पादन करते हैं जो आपके लक्षित दर्शकों को सही संदेश देता है",
 
-        "label4":"Google Ads",
-        "label4_description":["Google Ads and also cost per click is a model of internet", 
-                              "marketing in which advertisers pay a fee each time one of", 
-                              "their ads is clicked. It’s a way of direct traffic to your", 
-                              "website, rather than attempting to earn those visits organically.", 
-                              "With the right keywords we can promote our business successfully."]
+        "label4":"गूगल विज्ञापन",
+        "label4_description":"Google विज्ञापन और प्रति क्लिक लागत भी इंटरनेट, मार्केटिंग का एक मॉडल है जिसमें विज्ञापनदाता अपने विज्ञापनों में से किसी एक पर क्लिक करने पर हर बार एक शुल्क का भुगतान करते हैं। यह उन विज़िट को व्यवस्थित रूप से अर्जित करने का प्रयास करने के बजाय आपकी, वेबसाइट पर सीधे ट्रैफ़िक का एक तरीका है। सही कीवर्ड के साथ हम अपने व्यवसाय को सफलतापूर्वक बढ़ावा दे सकते हैं।"
 
      },
 
      "contact":{
-         "contact_heading":"CONTACT US",
-         "contact_companyname":"RADICO",
-         "contact_district":"Thrissur",
-         "contact_state":"Kerala",
-         "contact_country":"India",
+         "contact_heading":"संपर्क करें",
+         "contact_companyname":"रैडिको",
+         "contact_district":"त्रिशूर",
+         "contact_state":"केरल",
+         "contact_country":"भारत",
          
          "contact_phone":"+91 8113027091",
 
          "contact_email":"roypamechbc@gmail.com",
 
-         "contact_name_label":"Name",
-         "contact_name_hint":"Enter name",
+         "contact_name_label":"नाम",
+         "contact_name_hint":"नाम दर्ज",
 
-         "contact_email_label":"Email",
-         "contact_email_hint":"How do I contact",
+         "contact_email_label":"ईमेल",
+         "contact_email_hint":"मैं कैसे संपर्क करूं",
 
-         "contact_subject_label":"Subject",
-         "contact_subject_hint":"Outline of the message",
+         "contact_subject_label":"विषय",
+         "contact_subject_hint":"संदेश की रूपरेखा",
 
-         "contact_description_label":"Description",
+         "contact_description_label":"विवरण",
 
-         "contact_sendmessage":"Send Message",
+         "contact_sendmessage":"मेसेज भेजें",
 
-         "contact_reset":"Reset"
+         "contact_reset":"रीसेट"
      },
 
      "pagenotfound":{
-         "heading1":"404 Error",
-         "heading2":"The page you are looking is not this website"
+         "heading1":"404 त्रुटि",
+         "heading2":"आप जो पेज देख रहे हैं वह यह वेबसाइट नहीं है"
      }
 
 
