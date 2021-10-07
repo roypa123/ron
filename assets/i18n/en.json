@@ -1,5 +1,27 @@
 {
     "home":{
         "title": "Welcome to multi" 
+    },
+
+    "aboutus":{
+        
+        "title":"ABOUT US",
+        "description": ["Radico is a digital marketing and a website designing company with highly qualified",
+                       "professionals. Our team is highly skilled and experienced in understanding the general",
+                       "consumer behaviours and moderating the UX of the website according to the purchase",
+                       "behaviours. Your website will be carefully tailored with precisely following our",
+                       "proprietary 162 steps procedure which results in extremely high quality" ,
+                       "ERROR FREE WEBSITES which generates results. "],
+        "teamtitle":"TEAM",
+        "teammember1title":"Chris White",
+        "teammember1position":"Chief Executive Officer",
+        "teammember1details": ["Chris has been designing and building websites since 1998, and doing", 
+                               "so professionally since 2006, when he graduated from Bradley University",
+                               "with a degree in Multimedia. As CEO, Chris focuses primarily on shaping", 
+                               "Chromatic’s strategy, vision, and team culture. He practices a lead-by-example", 
+                               "management style and believes strongly in transparency, both internally and", 
+                               "externally."]
+   
+        
     }
 }
