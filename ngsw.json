@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1633626759864,
+  "timestamp": 1633628641456,
   "index": "/ron/index.html",
   "assetGroups": [
     {
@@ -48,7 +48,7 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "/ron/assets/i18n/ch.json": "d3ec5d2f2993597bd9f9c60f659a93bc53f418ab",
+    "/ron/assets/i18n/ch.json": "f61e9bbb184fed145b9aef0b71c0585402908603",
     "/ron/assets/i18n/en.json": "d3ec5d2f2993597bd9f9c60f659a93bc53f418ab",
     "/ron/assets/i18n/fr.json": "1bbf54c870f0dd4e9bbeda88af83b58cb6bd565e",
     "/ron/assets/i18n/hi.json": "d3ec5d2f2993597bd9f9c60f659a93bc53f418ab",

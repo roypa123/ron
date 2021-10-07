@@ -1,149 +1,115 @@
 {
     "appcomponent":{
-       "app_link_home":"Home",
-       "app_link_about":"About",
-       "app_link_services":"Services",
-       "app_link_contact_us":"Contact Us"
+       "app_link_home":"家",
+       "app_link_about":"关于",
+       "app_link_services":"服务",
+       "app_link_contact_us":"联系我们"
     },
     
     "header":{
-        "header_companyname":"RADICO",
-        "header_homelink":"Home",
-        "header_aboutlink":"About",
-        "header_serviceslink":"Services",
-        "header_contactlink":"Contact US"
+        "header_companyname":"拉迪科",
+        "header_homelink":"家",
+        "header_aboutlink":"关于",
+        "header_serviceslink":"服务",
+        "header_contactlink":"联系我们"
     },
 
     "footer":{
-        "footer_addressname":"RADICO",
-        "footer_place":"Thrissur",
-        "footer_state":"kerala",
-        "footer_country":"India",
-        "footer_phone":"Phone: +91 8113027091",
-        "footer_email":"Email: roypamechbc@gmail.com",
+        "footer_addressname":"拉迪科",
+        "footer_place":"特里苏尔",
+        "footer_state":"喀拉拉邦",
+        "footer_country":"印度",
+        "footer_phone":"电话: +91 8113027091",
+        "footer_email":"电子邮件: roypamechbc@gmail.com",
 
-        "footer_servicename":"OUR SERVICES",
-        "footer_service1":"Web Development",
-        "footer_service2":"Social Media Marketing",
-        "footer_service3":"Content Writing",
-        "footer_service4":"Google Ads",
-        "footer_languagename":"LANGAUGES"
+        "footer_servicename":"我们的服务",
+        "footer_service1":"Web开发",
+        "footer_service2":"社交媒体市场营销",
+        "footer_service3":"内容写作",
+        "footer_service4":"谷歌广告",
+        "footer_languagename":"语言"
     },
 
     "home":{
-        "home_intro1":"GET A PROFESSIONAL WEBSITE FOR YOUR BUSINESS",
-        "home_intro2":"We are team of talented designers making websites with MEAN stack",
-        "home_portfolio":"PORTFOLIO"
+        "home_intro1":"为您的企业获取专业网站",
+        "home_intro2":"我们是一群才华横溢的设计师，使用 MEAN 堆栈制作网站",
+        "home_portfolio":"文件夹"
     },
     
     "aboutus":{
         
-        "title":"ABOUT US",
-        "description": ["Radico is a digital marketing and a website designing company with highly qualified",
-                       "professionals. Our team is highly skilled and experienced in understanding the general",
-                       "consumer behaviours and moderating the UX of the website according to the purchase",
-                       "behaviours. Your website will be carefully tailored with precisely following our",
-                       "proprietary 162 steps procedure which results in extremely high quality" ,
-                       "ERROR FREE WEBSITES which generates results. "],
+        "title":"关于我们",
+        "description": "Radico 是一家数字营销和网站设计公司，拥有高素质的专业人士。我们的团队技术娴熟，经验丰富，能够根据购买行为了解一般的消费者行为并调整网站的用户体验。您的网站将严格按照我们专有的 162 步程序进行精心定制，从而产生极高的质量，产生结果的无错误网站。",
 
-        "teamtitle":"TEAM",
-        "teammember1title":"Chris White",
-        "teammember1position":"Chief Executive Officer",
-        "teammember1details": ["Chris has been designing and building websites since 1998, and doing", 
-                               "so professionally since 2006, when he graduated from Bradley University",
-                               "with a degree in Multimedia. As CEO, Chris focuses primarily on shaping", 
-                               "Chromatic’s strategy, vision, and team culture. He practices a lead-by-example", 
-                               "management style and believes strongly in transparency, both internally and", 
-                               "externally."],
+        "teamtitle":"团队",
+        "teammember1title":"克里斯·怀特",
+        "teammember1position":"首席执行官",
+        "teammember1details": "Chris 从 1998 年开始设计和构建网站，并从 2006 年开始从事专业设计，当时他毕业于布拉德利大学，获得多媒体学位。作为 CEO，Chris 主要专注于塑造 Chromatic 的战略、愿景和团队文化。他实践以身作则的管理风格，并坚信内部和外部的透明度。",
 
-        "teammember2title":"Sarah Jhonson",
-        "teammember2position":"Product Manager",
-        "teammember2details":  ["Sarah is a creative problem solver and a natural leader.", 
-                               "As a lifelong learner and teacher, she is constantly trying new things and", 
-                               "acquiring new skills.She graduated from Bradley University",
-                               "with a bachelor’s degree in Multimedia and is currently pursuing a Master’s", 
-                               "degree in Leadership, Theology, and Society from Regent College."],
+        "teammember2title":"莎拉·约翰逊",
+        "teammember2position":"产品经理",
+        "teammember2details": "莎拉是一个创造性的问题解决者和天生的领导者。,作为一个终身学习者和老师，她不断尝试新事物，获得新技能。她毕业于布拉德利大学，获得多媒体学士学位，目前正在攻读硕士学位，摄政学院领导力、神学和社会学位。",
 
 
-        "teammember3title":"Sergey Anderson",
-        "teammember3position":"Full stack developer",
-        "teammember3details": [ "Sergey joins Chromatic as a full-stack lead developer with experience in spades.",
-                                "With 10+ years experience with PHP and Drupal (backend & frontend), 4+ years of",
-                                "React / NextJS, his wonderful mix of skills and a can-do attitude mean there’s nothing", 
-                                "he can’t tackle." ],
+        "teammember3title":"谢尔盖·安德森",
+        "teammember3position":"全栈开发人员",
+        "teammember3details": "Sergey 加入 Chromatic 作为一名拥有黑桃经验的全栈首席开发人员。，拥有 10 年以上 PHP 和 Drupal（后端和前端）经验，4 年以上的 React / NextJS，他的技能和可以做的绝妙组合态度意味着没有什么，他无法解决。",
 
 
-        "teammember4title":"Amanda Jepson",
-        "teammember4position":"Senior Developer",
-        "teammember4details": ["Amanda has been working on the web since he was a teenager and has", 
-                               "been building sites with Drupal and open-source web technologies", 
-                               "for non-profit, enterprise, and media companies for over 15 years."]
+        "teammember4title":"阿曼达·杰普森",
+        "teammember4position":"高级开发人员",
+        "teammember4details": "Amanda 从十几岁起就一直在网络上工作，并且已经使用 Drupal 和开源网络技术为非营利、企业和媒体公司构建网站超过 15 年。"
         
     },
 
     "services":{
-        "heading":"SERVICES",
-        "heading_description":"Our passion is your success",
+        "heading":"服务",
+        "heading_description":"我们的热情是您的成功",
 
-        "label1":"Web development",
-        "label1_description": [ "Website development is the coding or programming that",
-                                "enables website functionality, per the owner’s requirements.",
-                                "The website development process includes web design,server-side",
-                                "scripting and network security configuration."],
+        "label1":"Web开发",
+        "label1_description": "网站开发是根据所有者的要求启用网站功能的编码或编程。网站开发过程包括网页设计、服务器端、脚本和网络安全配置。",
 
-        "label2":"Social media marketing",
-        "label2_description":[ "Social media marketing is a form of Internet marketing", 
-                               "that utilizes social networking websites as a marketing tool.", 
-                               "One of the key components of SMM is social media optimization.", 
-                               "Like search engine optimization, SMO is a strategy for drawing", 
-                               "new and unique visitors to a website."],
+        "label2":"社交媒体市场营销",
+        "label2_description": "社交媒体营销是互联网营销的一种形式，它利用社交网站作为营销工具。SMM的关键组成部分之一是社交媒体优化。与搜索引擎优化一样，SMO是一种吸引新访客和独特访客的策略到一个网站。",
 
-        "label3":"Content Writing",
-        "label3_description":["ePeople trends digital marketing has creative content", 
-                              "writers and professional editors who make up a highly-skilled",
-                              "editorial team. Including keywords in title and description would", 
-                              "certainly help in ranking. We produce powerful content that delivers",
-                              "the right message to your target audience"],
+        "label3":"内容写作",
+        "label3_description":"ePeople 趋势数字营销拥有创意内容、作家和专业编辑，他们组成了一支高技能的编辑团队。在标题和描述中包含关键字肯定有助于排名。我们制作强大的内容，向您的目标受众传递正确的信息",
 
-        "label4":"Google Ads",
-        "label4_description":["Google Ads and also cost per click is a model of internet", 
-                              "marketing in which advertisers pay a fee each time one of", 
-                              "their ads is clicked. It’s a way of direct traffic to your", 
-                              "website, rather than attempting to earn those visits organically.", 
-                              "With the right keywords we can promote our business successfully."]
+        "label4":"谷歌广告",
+        "label4_description": "谷歌广告和每次点击费用是一种互联网营销模式，广告客户每次点击他们的广告时都要支付费用。这是一种直接访问您网站的方式，而不是尝试有机地获得这些访问。使用正确的关键字，我们可以成功地促进我们的业务。"
 
      },
 
      "contact":{
-         "contact_heading":"CONTACT US",
-         "contact_companyname":"RADICO",
-         "contact_district":"Thrissur",
-         "contact_state":"Kerala",
-         "contact_country":"India",
+         "contact_heading":"联系我们",
+         "contact_companyname":"拉迪科",
+         "contact_district":"特里苏尔",
+         "contact_state":"喀拉拉邦",
+         "contact_country":"印度",
          
          "contact_phone":"+91 8113027091",
 
          "contact_email":"roypamechbc@gmail.com",
 
-         "contact_name_label":"Name",
-         "contact_name_hint":"Enter name",
+         "contact_name_label":"姓名",
+         "contact_name_hint":"输入名字",
 
-         "contact_email_label":"Email",
-         "contact_email_hint":"How do I contact",
+         "contact_email_label":"电子邮件",
+         "contact_email_hint":"我如何联系",
 
-         "contact_subject_label":"Subject",
-         "contact_subject_hint":"Outline of the message",
+         "contact_subject_label":"主题",
+         "contact_subject_hint":"讯息概要",
 
-         "contact_description_label":"Description",
+         "contact_description_label":"描述",
 
-         "contact_sendmessage":"Send Message",
+         "contact_sendmessage":"发信息",
 
-         "contact_reset":"Reset"
+         "contact_reset":"重启"
      },
 
      "pagenotfound":{
-         "heading1":"404 Error",
-         "heading2":"The page you are looking is not this website"
+         "heading1":"404错误",
+         "heading2":"您正在查看的页面不是本网站"
      }
 
 
