@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1633614896029,
+  "timestamp": 1633626759864,
   "index": "/ron/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/ron/favicon.ico",
         "/ron/index.html",
-        "/ron/main.5be48fb994476b7a6cda.js",
+        "/ron/main.da36a038231823057a50.js",
         "/ron/manifest.webmanifest",
         "/ron/polyfills.ae12bb433067a9d7a6f1.js",
         "/ron/runtime.10f75b78728279349676.js",
@@ -29,8 +29,10 @@
         "ignoreVary": true
       },
       "urls": [
+        "/ron/assets/i18n/ch.json",
         "/ron/assets/i18n/en.json",
         "/ron/assets/i18n/fr.json",
+        "/ron/assets/i18n/hi.json",
         "/ron/assets/icons/icon-128x128.png",
         "/ron/assets/icons/icon-144x144.png",
         "/ron/assets/icons/icon-152x152.png",
@@ -46,8 +48,10 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "/ron/assets/i18n/en.json": "e586b4033db333e2469fa3bf1e7c021110e1914b",
-    "/ron/assets/i18n/fr.json": "c461056d076ffd1d1028b0ef5c421cac88609c28",
+    "/ron/assets/i18n/ch.json": "d3ec5d2f2993597bd9f9c60f659a93bc53f418ab",
+    "/ron/assets/i18n/en.json": "d3ec5d2f2993597bd9f9c60f659a93bc53f418ab",
+    "/ron/assets/i18n/fr.json": "1bbf54c870f0dd4e9bbeda88af83b58cb6bd565e",
+    "/ron/assets/i18n/hi.json": "d3ec5d2f2993597bd9f9c60f659a93bc53f418ab",
     "/ron/assets/icons/icon-128x128.png": "d3b3cd5e37487ad9663ce741cff68c8233d9a8ea",
     "/ron/assets/icons/icon-144x144.png": "c091b385a749343b2e641e307c1d367ff7fd545d",
     "/ron/assets/icons/icon-152x152.png": "e3ecfedcbedd6c22fbf5338aece9760f54cdfd33",
@@ -58,8 +62,8 @@
     "/ron/assets/icons/icon-96x96.png": "2ad167090a37744ce11b243de379c082676ccafa",
     "/ron/assets/images/icon.png": "e3ecfedcbedd6c22fbf5338aece9760f54cdfd33",
     "/ron/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/ron/index.html": "d523854b1b73335e0e66139f488d394cb9e3398e",
-    "/ron/main.5be48fb994476b7a6cda.js": "9a34af8e58493b4e087532e9d543bd2bab757f03",
+    "/ron/index.html": "096a728c1dea816afb4f83d1b66c4318aea0307b",
+    "/ron/main.da36a038231823057a50.js": "10334687b9ebb33b3633e5f672d5ba72dfd92a96",
     "/ron/manifest.webmanifest": "ee884c383b27b5f81cf1eec5ce4910c51a42d72f",
     "/ron/polyfills.ae12bb433067a9d7a6f1.js": "664e04f958c404026498ead3de1ec1b94000cbd3",
     "/ron/runtime.10f75b78728279349676.js": "f1e0aa885ed1e644f267b02549a4d9bfe3aeeb1e",

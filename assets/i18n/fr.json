@@ -1,5 +1,117 @@
 {
+    "appcomponent":{
+       "app_link_home":"Accueil",
+       "app_link_about":"Sur",
+       "app_link_services":"Prestations de service",
+       "app_link_contact_us":"Nous contacter"
+    },
+    
+    "header":{
+        "header_companyname":"RADICO",
+        "header_homelink":"Accueil",
+        "header_aboutlink":"Sur",
+        "header_serviceslink":"Prestations de service",
+        "header_contactlink":"Nous contacter"
+    },
+
+    "footer":{
+        "footer_addressname":"RADICO",
+        "footer_place":"Thrissur",
+        "footer_state":"kerala",
+        "footer_country":"India",
+        "footer_phone":"Téléphone: +91 8113027091",
+        "footer_email":"E-mail: roypamechbc@gmail.com",
+
+        "footer_servicename":"NOS SERVICES",
+        "footer_service1":"Développement web",
+        "footer_service2":"Marketing des médias sociaux",
+        "footer_service3":"Rédaction de contenu",
+        "footer_service4":"Annonces Google",
+        "footer_languagename":"LANGAGES"
+    },
+
     "home":{
-        "title": "dfdddd" 
-    }
+        "home_intro1":"OBTENEZ UN SITE PROFESSIONNEL POUR VOTRE ENTREPRISE",
+        "home_intro2":"Nous sommes une équipe de designers talentueux créant des sites Web avec une pile MEAN",
+        "home_portfolio":"PORTEFEUILLE"
+    },
+    
+    "aboutus":{
+        
+        "title":"À PROPOS DE NOUS",
+        "description": "Radico est une entreprise de marketing numérique et de conception de sites Web avec des professionnels hautement qualifiés. Notre équipe est hautement qualifiée et expérimentée dans la compréhension des comportements généraux des consommateurs et dans la modération de l'UX du site Web en fonction des comportements d'achat. Votre site Web sera soigneusement conçu en suivant précisément notre procédure exclusive en 162 étapes qui se traduit par des SITES WEB SANS ERREUR de très haute qualité qui génèrent des résultats.",
+
+        "teamtitle":"ÉQUIPE",
+        "teammember1title":"Chris White",
+        "teammember1position":"Chef de la direction",
+        "teammember1details": "Chris conçoit et construit des sites Web depuis 1998, et le fait professionnellement depuis 2006, lorsqu'il est diplômé de l'Université Bradley, avec un diplôme en multimédia. En tant que PDG, Chris se concentre principalement sur la mise en forme, la stratégie, la vision et la culture d'équipe de Chromatic. Il pratique un style de gestion axé sur l'exemple et croit fermement à la transparence, tant à l'interne qu'à l'externe.",
+
+        "teammember2title":"Sarah Jhonson",
+        "teammember2position":"Chef de produit",
+        "teammember2details":"Sarah est une résolveuse de problèmes créative et un leader naturel.,En tant qu'apprenante et enseignante tout au long de la vie, elle essaie constamment de nouvelles choses et acquiert de nouvelles compétences.Elle est diplômée de l'Université Bradley, avec un baccalauréat en multimédia et poursuit actuellement une maîtrise, diplôme en leadership, théologie et société du Regent College.",
+
+
+        "teammember3title":"Sergey Anderson",
+        "teammember3position":"Développeur full stack",
+        "teammember3details": "Sergey rejoint Chromatic en tant que développeur principal avec une expérience dans les piques.,Avec plus de 10 ans d'expérience avec PHP et Drupal (backend et frontend), 4+ ans de,React / NextJS, son merveilleux mélange de compétences et un can-do attitude signifie qu'il n'y a rien, il ne peut pas s'attaquer.",
+
+
+        "teammember4title":"Amanda Jepson",
+        "teammember4position":"DEVELOPPEUR sénior",
+        "teammember4details": "Amanda travaille sur le Web depuis son adolescence et construit des sites avec Drupal et des technologies Web open source pour des sociétés à but non lucratif, des entreprises et des médias depuis plus de 15 ans."
+        
+    },
+
+    "services":{
+        "heading":"PRESTATIONS DE SERVICE",
+        "heading_description":"Notre passion est votre réussite",
+
+        "label1":"développement web",
+        "label1_description": "Le développement de sites Web est le codage ou la programmation qui permet la fonctionnalité du site Web, selon les exigences du propriétaire. Le processus de développement de sites Web comprend la conception Web, le côté serveur, les scripts et la configuration de la sécurité du réseau.",
+
+        "label2":"Marketing des médias sociaux",
+        "label2_description": "Le marketing des médias sociaux est une forme de marketing Internet qui utilise les sites Web de réseaux sociaux comme outil de marketing.,L'un des composants clés de SMM est l'optimisation des médias sociaux.,Comme l'optimisation des moteurs de recherche, SMO est une stratégie pour attirer de nouveaux visiteurs uniques. à un site Web.",
+
+        "label3":"Rédaction de contenu",
+        "label3_description":"Le marketing numérique des tendances ePeople a un contenu créatif, des rédacteurs et des éditeurs professionnels qui constituent une équipe éditoriale hautement qualifiée. Inclure des mots-clés dans le titre et la description aiderait certainement au classement. Nous produisons un contenu puissant qui délivre le bon message à votre public cible.",
+
+        "label4":"Annonces Google",
+        "label4_description":"Google Ads et le coût par clic sont un modèle de marketing Internet dans lequel les annonceurs paient des frais chaque fois qu'un de leurs annonces est cliqué. C'est un moyen de diriger le trafic vers votre site Web, plutôt que d'essayer de gagner ces visites de manière organique. Avec les bons mots-clés, nous pouvons promouvoir notre entreprise avec succès."
+
+     },
+
+     "contact":{
+         "contact_heading":"NOUS CONTACTER",
+         "contact_companyname":"RADICO",
+         "contact_district":"Thrissur",
+         "contact_state":"Kerala",
+         "contact_country":"India",
+         
+         "contact_phone":"+91 8113027091",
+
+         "contact_email":"roypamechbc@gmail.com",
+
+         "contact_name_label":"Nom",
+         "contact_name_hint":"Entrez le nom",
+
+         "contact_email_label":"E-mail",
+         "contact_email_hint":"Comment contacter",
+
+         "contact_subject_label":"Sujet",
+         "contact_subject_hint":"Aperçu du message",
+
+         "contact_description_label":"La description",
+
+         "contact_sendmessage":"Envoyer le message",
+
+         "contact_reset":"Réinitialiser"
+     },
+
+     "pagenotfound":{
+         "heading1":"Erreur 404",
+         "heading2":"La page que vous recherchez n'est pas ce site"
+     }
+
+
+
 }
