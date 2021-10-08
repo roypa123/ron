@@ -15,6 +15,10 @@ compiled code branch: gh-pages
 ###  MAIN THING INCLUDED:
 
 * ANGULAR PWA
+
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
+
 * ANGULAR MATERIAL
 * LANGUAGE TRANSLATION (USING NGX TRANSLATE)
 * GOOGLE ANALYTICS
