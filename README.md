@@ -8,10 +8,11 @@ Deployed on GITHUBPAGES
 [Go to the website ]( https://roypa123.github.io/ron)
 
 ### Programs used:
-- HTML
-- CSS
-- JAVASCRIPT
-- Node.js
-- MongoDb
-- Expresshandlebars
+- ANGULAR
+
+####  MAIN THING INCLUDED:
+-ANGULAR PWA
+-ANGULAR MATERIAL
+-LANGUAGE TRANSLATION (USING NGX TRANSLATE)
+-GOOGLE ANALYTICS
 
